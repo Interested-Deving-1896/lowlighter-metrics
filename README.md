@@ -84,7 +84,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@funkypenguin](https://github.com/funkypenguin) | 1 |
 | [@ferferga](https://github.com/ferferga) | 1 |
 | [@jopemachine](https://github.com/jopemachine) | 1 |
-| [@nandgator](https://github.com/nandgator) | 1 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
